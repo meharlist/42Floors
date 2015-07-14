@@ -1,0 +1,7 @@
+-----------------
+1. REQUIREMENTS:
+-----------------
+a. Python 2.x
+b. Selenium webdriver with Python binding
+c. Python modules: selenium, logging 
+d. Selenium drivers for your browsers
